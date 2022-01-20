@@ -1,3 +1,4 @@
 halo apakabar
 
 saya risano juga manahbahkan data di file_risano baris ke3
+saya menambahkan data di baris ketiga di file akbar
